@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hello, I'm Areeb! Welcome to my GitHub profile. I'm a skilled developer with experience in Python, C/C++, JS, Assembly (x32) and expertise in frameworks like Flask, Django, React, Node.js. I have a proper hold on multiple tools and technologies. I'm a quick learner and collaborate closely with clients to create efficient, scalable, and user-friendly solutions that solve real-world problems. Let's work together to bring your ideas to life!
+👋 Hello, I'm Areeb! Welcome to my GitHub profile. I'm a skilled developer with experience in Python, C/C++, JS, GoLang, and expertise in frameworks like Flask, Django, React, Node.js. I have a proper hold on multiple tools and technologies. I'm a quick learner and collaborate closely with clients to create efficient, scalable, and user-friendly solutions that solve real-world problems. Let's work together to bring your ideas to life!
 
 
 ## 🌐 Socials:
